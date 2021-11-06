@@ -1,0 +1,12 @@
+- title: ISSUE1
+  description: The first patch
+  upstreamPR: https://bithub.com/org/repo/1
+  downstreamBranch: ISSUE1-0.1
+  fixedVersion: 0.2
+- title: ISSUE2
+  description: The second patch
+  upstreamPR: https://bithub.com/org/repo/2
+  downstreamBranch: ISSUE2-0.1
+  fixedVersion: 0.2
+
+ 
