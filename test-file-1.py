@@ -3,5 +3,5 @@
 def test_method_1():
     print("Hello World!")
 
-def test_method_2():
-    raise NotImplementedError()
+def test_method_2(name):
+    print(f"Hello {name}")
